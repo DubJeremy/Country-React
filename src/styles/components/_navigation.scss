@@ -8,7 +8,7 @@
     border-radius: 4px;
     position: relative;
   }
-  .active {
+  .nav-active {
     &::after {
       content: "";
       width: 85%;
